@@ -1,0 +1,12 @@
+    Upon launching the website, you will see my formating of the navigation as a sidebar,
+with the main content taking up the right 80% of the page. My home page features an about me section,
+describing some things I am working on and like to do. My resume page has my original pdf version 
+available to download through the navigation header and the css formatted version on the page itself.
+There are clickable options for my email and number to easily contact me. The projects page has some of the
+club opportunities I am trying to organize in bulleted format. Every page has a profile picture of me and my 
+name as the header, with the IIT red as the background color. The navigation also matches in red and is in the
+fixed format for easier access wherever on the page. 
+    If I had more time, I would have made my pages more responsive to different electronics(phone friendly). I would
+also like to add more images, but I found it difficult to format different sections to proper sizes. Most of my time
+was spent trying to figure out how padding and margins work with each other to appropriatly size the sections of my resume,
+though, I feel I have been getting efficient at spacing text and sections now.
